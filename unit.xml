@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.4430" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-03-21T08:43:10" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="WorkList app 
+" timestamp="2022-03-21T08:43:10" tests="6" file="C:\Users\Addmin\Documents\NodeJS\worklist\test\test.js" time="1.4430" failures="0">
+    <testcase name="WorkList app 
+ Add a work" time="0.3200" classname="Add a work">
+    </testcase>
+    <testcase name="WorkList app 
+ Add a work on a empty string" time="0.1040" classname="Add a work on a empty string">
+    </testcase>
+    <testcase name="WorkList app 
+ Edit" time="0.2230" classname="Edit">
+    </testcase>
+    <testcase name="WorkList app 
+ Edit on empty field" time="0.1020" classname="Edit on empty field">
+    </testcase>
+    <testcase name="WorkList app 
+ Clear" time="0.2830" classname="Clear">
+    </testcase>
+    <testcase name="WorkList app 
+ Delete" time="0.4110" classname="Delete">
+    </testcase>
+  </testsuite>
+</testsuites>
